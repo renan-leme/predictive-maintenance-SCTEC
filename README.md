@@ -160,7 +160,7 @@ Possible enhancements include:
 -   Model Deployment using Flask or FastAPI
 
 ## Demonstration Video
-Video link: https://youtu.be/fD1H07yMVr0
+Video link: https://youtu.be/JF6jW9guI2Q
 
 
 ## Author
